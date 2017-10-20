@@ -1,0 +1,160 @@
+.soccer-field-big {
+background-color: #8cb27c;
+height: 380px;
+width: 761px;
+box-sizing: border-box;
+color: transparent;
+position: relative;
+}
+
+.soccer-field-middle {
+  background: #8cb27c;
+  height: 353px;
+  width: 734px;
+  box-sizing: border-box;
+  color: transparent;
+  border: 4px white solid;
+  position: absolute;
+  right: 13.5px;
+  bottom: 13.5px;
+}
+
+.left {
+  background: #8cb27c;
+  height: 153px;
+  width: 82px;
+  box-sizing: border-box;
+  color: transparent;
+  border: 4px white solid;
+  position: absolute;
+  bottom: 100px;
+  left: -4px;
+}
+.right {
+  background: #8cb27c;
+  height: 153px;
+  width: 82px;
+  box-sizing: border-box;
+  color: transparent;
+  border: 4px white solid;
+  position: absolute;
+  bottom: 100px;
+  right: -4px;
+}
+.circule{
+     width: 161px;
+     height: 154px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #8cb27c;
+     border: 3px white solid;
+     box-sizing: border-box;
+     position: absolute;
+     bottom: 100px;
+     left: 290px;
+}
+.icon-volleyball {
+  font-size: 20px;
+  color: #e8e8e8;
+  position: absolute;
+  left: 63px;
+  top: -2px;
+}
+
+.circule-left{
+  width: 16px;
+  height: 16px;
+  -moz-border-radius: 100%;
+  -webkit-border-radius: 100%;
+  border-radius: 100%;
+  background: white;
+  box-sizing: border-box;
+  position: absolute;
+  left: 65.3px;
+  box-shadow: 1px 1px black;
+}
+
+.icon-volleyball2 {
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  right: 81px;
+  bottom: 8px;
+}
+
+.circule-right{
+  width: 16px;
+  height: 16px;
+  -moz-border-radius: 100%;
+  -webkit-border-radius: 100%;
+  border-radius: 100%;
+  background: #e8e8e8;
+  box-sizing: border-box;
+  position: absolute;
+  bottom: 10px;
+  left: -24px;
+  box-shadow: 1px 1px black;
+}
+.icon-volleyball1 {
+  font-size: 20px;
+  color: #e8e8e8;
+  position: absolute;
+  top: -60px;
+  right: 60px;
+}
+
+.circule-center {
+  width: 16px;
+  height: 16px;
+  -moz-border-radius: 100%;
+  -webkit-border-radius: 100%;
+  border-radius: 100%;
+  background: white;
+  box-sizing: border-box;
+  position: absolute;
+  top: -58px;
+  right: 62px;
+  box-shadow: 1px 1px black;
+}
+/*.icon-volleyball {
+  box-sizing: border-box;
+  -moz-border-radius: 1vh;
+  -webkit-border-radius: 100%;
+  border-radius: 100%;
+  background-color: white;
+  color: gray;
+  position: relative;
+  top: 21vh;
+  left: -4vh;
+  width: 11px;
+  height: 11px;
+}
+
+.icon-volleyball2 {
+  box-sizing: border-box;
+  -moz-border-radius: 100%;
+  -webkit-border-radius: 100%;
+  border-radius: 100%;
+  background-color: gray;
+  color: white;
+  position: relative;
+  top: 0vh;
+  left: 11vh;
+  width: 11px;
+  height: 11px;
+}
+
+.icon-volleyball-water {
+  box-sizing: border-box;
+  -moz-border-radius: 100%;
+  -webkit-border-radius: 100%;
+  border-radius: 100%;
+  background-color: white;
+  color: gray;
+  position: relative;
+  top: -10vh;
+  left: 15vh;
+  width: 11px;
+  height: 11px;
+}*/
